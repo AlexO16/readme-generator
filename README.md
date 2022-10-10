@@ -16,8 +16,7 @@
   
 
   # Screenshot
-  ![Screen Shot 2022-10-10 at 2 10 54 PM](https://user-images.githubusercontent.com/110851664/194937532-182bc75a-53ae-4cfd-8e67-1a98ba0c3257.png)
-
+ ![Screen Shot 2022-10-10 at 2 10 54 PM](https://user-images.githubusercontent.com/110851664/194938150-446047b3-fe1e-4da0-bd08-0640f9e136cd.png)
 
   # Installation
   Have nodejs installed on your local machine and clone this repo.
