@@ -2,7 +2,7 @@
   # README Generator
   
   # Description
-  This is a README generator
+  This is a README generator.
 
   # Table of Contents:
   * [Installation](#installation)
@@ -10,7 +10,9 @@
   * [Contribution](#contribution)
   * [Testing](#testing)
   * [License](#license)
+  * [Links](#links)
   * [Questions](#questions)
+  
 
   # Installation
   Have nodejs installed on your local machine and clone this repo.
@@ -33,6 +35,10 @@
       The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
         
       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+      
+# Links
+[Demo video](https://drive.google.com/file/d/1DBjkYwSOfOFIimpPxRlL1WsaLBlfWRem/view)
+[Repository](https://github.com/AlexO16/readme-generator)
 
   # Questions
   If you have any questions, you may contact me at either [GitHub](https://github.com/AlexO16)
