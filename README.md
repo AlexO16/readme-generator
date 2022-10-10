@@ -5,6 +5,7 @@
   This is a README generator.
 
   # Table of Contents:
+  * [Screenshot](#screenshot)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contribution](#contribution)
@@ -15,7 +16,8 @@
   
 
   # Screenshot
-  ![Screen Shot 2022-10-10 at 2 10 54 PM](https://user-images.githubusercontent.com/110851664/194936767-1a9ed342-7a62-4924-ba43-1416aa2743b5.png)
+  ![Screen Shot 2022-10-10 at 2 10 54 PM](https://user-images.githubusercontent.com/110851664/194937532-182bc75a-53ae-4cfd-8e67-1a98ba0c3257.png)
+
 
   # Installation
   Have nodejs installed on your local machine and clone this repo.
@@ -45,4 +47,4 @@
 
 # Questions
 If you have any questions, you may contact me at either [GitHub](https://github.com/AlexO16)
-or Email: alexoleynik74@gmail.com.
+or [Email](alexoleynik74@gmail.com).
