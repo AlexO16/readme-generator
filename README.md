@@ -14,6 +14,9 @@
   * [Questions](#questions)
   
 
+  # Screenshot
+  ![Screen Shot 2022-10-10 at 2 10 54 PM](https://user-images.githubusercontent.com/110851664/194936767-1a9ed342-7a62-4924-ba43-1416aa2743b5.png)
+
   # Installation
   Have nodejs installed on your local machine and clone this repo.
 
@@ -40,7 +43,6 @@
 * [Demo video](https://drive.google.com/file/d/1DBjkYwSOfOFIimpPxRlL1WsaLBlfWRem/view)
 * [Repository](https://github.com/AlexO16/readme-generator)
 
-  # Questions
-  If you have any questions, you may contact me at either [GitHub](https://github.com/AlexO16)
-
-  or Email: alexoleynik74@gmail.com.
+# Questions
+If you have any questions, you may contact me at either [GitHub](https://github.com/AlexO16)
+or Email: alexoleynik74@gmail.com.
