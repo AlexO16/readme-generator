@@ -37,8 +37,8 @@
       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       
 # Links
-[Demo video](https://drive.google.com/file/d/1DBjkYwSOfOFIimpPxRlL1WsaLBlfWRem/view)
-[Repository](https://github.com/AlexO16/readme-generator)
+* [Demo video](https://drive.google.com/file/d/1DBjkYwSOfOFIimpPxRlL1WsaLBlfWRem/view)
+* [Repository](https://github.com/AlexO16/readme-generator)
 
   # Questions
   If you have any questions, you may contact me at either [GitHub](https://github.com/AlexO16)
